@@ -1,0 +1,10 @@
+*.tar
+*.pth
+*.tar.gz
+
+.vscode
+.ipynb_checkpoints
+data/*
+
+docs/edu-bert
+src/SER-torchaudio/input/2019mchn_001.wav

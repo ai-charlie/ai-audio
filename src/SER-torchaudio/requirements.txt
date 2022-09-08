@@ -1,0 +1,4 @@
+ffmepg
+torch
+torchaudio
+sox
