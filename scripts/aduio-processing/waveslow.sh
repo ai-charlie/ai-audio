@@ -1,7 +1,7 @@
 #!/bin/bash
 
 if [ $# != 1 ];then
-    echo "specify the dir to do the conversion."
+    echo "specify the dir to do the wave slow conversion."
     exit
 fi
 
