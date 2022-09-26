@@ -1,4 +1,6 @@
 ## Edu-bert
+
 ```bash
-git clone https://github.com/tal-tech/edu-bert.git
+git clone git@github.com:tal-tech/edu-bert.git
 ```
+
