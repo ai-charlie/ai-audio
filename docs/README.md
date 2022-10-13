@@ -1,12 +1,13 @@
 ## Edu-bert
 
 ```bash
-git clone https://github.com/tal-tech/edu-bert.git
+git clone git@github.com:tal-tech/edu-bert.git
 ```
 
 ## speechbrain
+
 ```bash
-git clone https://github.com/speechbrain/speechbrain/
+git clone git@github.com:speechbrain/speechbrain.git
 ```
 
 ### Exploring Wav2vec 2.0 fine-tuning for improved speech emotion recognition
@@ -14,5 +15,5 @@ git clone https://github.com/speechbrain/speechbrain/
 https://arxiv.org/abs/2110.06309
 
 ```bash
-https://github.com/b04901014/FT-w2v2-ser.git
+git clone git@github.com:b04901014/FT-w2v2-ser.git
 ```
