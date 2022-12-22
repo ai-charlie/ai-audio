@@ -102,6 +102,6 @@ datasets: zhvoice
 
 #### TensorRT C++？
 
-### 教学行为分析
+### 行为分析
 
 ~~可视化？~~
