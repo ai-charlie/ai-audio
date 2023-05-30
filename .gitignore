@@ -8,4 +8,4 @@
 docs/FT-w2v2-ser
 docs/speechbrain
 docs/edu-bert
-src/SER-torchaudio/input/2019mchn_001.wav
+*.wav
