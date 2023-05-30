@@ -17,7 +17,10 @@ https://arxiv.org/abs/2110.06309
 ```bash
 git clone git@github.com:b04901014/FT-w2v2-ser.git
 ```
-CA-MSER
-DMER
-FT-w2v2-ser
-ReMS
+
+# Others
+git@github.com:Vincent-ZHQ/CA-MSER.git
+git@github.com:Vincent-ZHQ/ReMS.git
+git@github.com:Vincent-ZHQ/DMER.git
+git@github.com:SuperKogito/SER-datasets
+git@github.com:clovaai/voxceleb_trainer.git
